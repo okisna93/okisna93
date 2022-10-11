@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @okisna93
+- 👋 Hi, I’m Okan
 - 👀 I’m interested in Artificial Intelligence , Machine Learning
 - 🌱 I’m currently doing Master on Appliet Artificial Intelligence in Stevens Institute of Technology
 - 💞️ I’m looking to collaborate on Software Development about AI and ML 
