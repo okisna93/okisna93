@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Okan
-- 👀 I’m interested in Artificial Intelligence , Machine Learning
-- 🌱 I’m currently doing Master on Appliet Artificial Intelligence in Stevens Institute of Technology
+- 👀 I’m interested in Artificial Intelligence ,and  Machine Learning
+- 🌱 I’m currently doing Master on Applied Artificial Intelligence at Stevens Institute of Technology
 - 💞️ I’m looking to collaborate on Software Development about AI and ML 
 - 📫 How to reach me by e-mail okancelik093@gmail.com
 
