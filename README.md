@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Okan
 - 👀 I’m interested in Artificial Intelligence ,and  Machine Learning
-- 🌱 I recently graduated from Master on Applied Artificial Intelligence at Stevens Institute of Technology
-- 💞️ I’m looking to collaborate on Software Development about AI and ML 
+- 🌱 I graduated from Master on Applied Artificial Intelligence at Stevens Institute of Technology
 - 📫 How to reach me by e-mail ismetokancelik@gmail.com
 
 <!---
